@@ -25,7 +25,7 @@ Previously at:
 
 ## 🛠️ Tech Stack
 
-- **Languages**: Java, Golang, Ruby on Rails, JavaScript (React/Vue)
+- **Languages**: Java, Golang, JavaScript (React/Vue)
 - **Backend**: Spring Boot, Redis, PostgreSQL, Oracle, MySQL
 - **Infrastructure**: AWS (EC2, RDS, S3, MSK), Kubernetes, Docker
 - **Observability**: Datadog, Firebase, Sentry, Papertrail, PagerDuty
@@ -38,8 +38,8 @@ Previously at:
 
 Explore some of my public contributions and tech experiments:
 
-### 🔄 [Transaction Reconciliation Service](https://github.com/sientong/reconciliation-service)
-Golang service for reconciling bank statements, focused on performance, data integrity, and concurrent processing.
+### 🔄 [QR Menu service](https://github.com/sientong/qr-menu-service)
+A secure and scalable service for managing restaurant menus with QR code integration, stock management, and real-time analytics using Java SpringBoot.
 
 ### 🛒 [Groceries Delivery Management](https://github.com/sientong/groceries-delivery-system)
 A Spring WebFlux-based project with TDD, PostgreSQL, and a modular microservice architecture.
