@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Muhammad Syaifuddin
 
-🚀 Experienced **Engineering Manager** with 10+ years in software development, delivering scalable SaaS products in **finance** and **supply chain** domains.
+🚀 Experienced **Engineering Manager** with 10+ years in software development and 4+ years in leadership, delivering scalable SaaS products in **finance** and **supply chain** domains.
 
 📍 Based in Jakarta, Indonesia  
 📫 shev.save@gmail.com | 🌐 [LinkedIn](https://www.linkedin.com/in/muhammad-syaifuddin-1b435218/)
