@@ -38,7 +38,13 @@ Previously at:
 
 Explore some of my public contributions and tech experiments:
 
-### 🔄 [QR Menu service](https://github.com/sientong/qr-menu-service)
+### 💰 [Billing Engine](https://github.com/sientong/billing-engine)
+Golang gRPC which generates loan repayment schedules, calculates outstanding amounts, and determines if a customer is delinquent.
+
+### 🔄 [Transaction Reconciliation Service](https://github.com/sientong/reconciliation-service)
+Golang CLI service for reconciling bank statements, focused on performance, data integrity, and concurrent processing.
+
+### 🔲 [QR Menu service](https://github.com/sientong/qr-menu-service)
 A secure and scalable service for managing restaurant menus with QR code integration, stock management, and real-time analytics using Java SpringBoot.
 
 ### 🛒 [Groceries Delivery Management](https://github.com/sientong/groceries-delivery-system)
